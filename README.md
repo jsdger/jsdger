@@ -11,7 +11,7 @@
   * Embedded Systems
   * Backend Development (.net, factapi, actix)    
 - ⌨️ I know C#, Python, TS/JS, Rust
-- ⚙️ I’m currently learning C, C++, Swift, more Rust!
+- ⚙️ I’m currently learning C, C++, Swift, and more Rust!
 - 💬 Contact me at
   * main@jgermany.dev
   * [Linkedin](https://www.linkedin.com/in/jamel-g-a78545113/)
